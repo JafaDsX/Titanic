@@ -1,6 +1,8 @@
  git config --global user.name ""
  git config --global user.email ""
 
+-> cd <path>
+
  git init
  git add <file-folder> .
  git commit -m "comment"
